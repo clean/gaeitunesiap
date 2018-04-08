@@ -24,7 +24,7 @@ Quick example
   except gaeitunesiap.Error as e:
     print 'Error occur: {}'.format(e)
 
-Intalation
+Instalation
 ----------
 
 .. sourcecode:: shell
