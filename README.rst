@@ -5,7 +5,7 @@ gaeitunesiap
 
 Apple iTunes In-app purchase verification api for GAE environment
 
-https://developer.apple.com/library/content/releasenotes/General/ValidateAppStoreReceipt/Chapters/ValidateRemotely.html
+Based on `Validating Receipts With the App Store <https://developer.apple.com/library/content/releasenotes/General/ValidateAppStoreReceipt/Chapters/ValidateRemotely.html>`_
 
 
 Quick example
