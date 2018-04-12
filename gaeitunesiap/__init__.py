@@ -25,7 +25,7 @@ class Error(Exception):
     pass
 
 
-def verify(receipt_data, password=None, exclude_old_transactions=False,
+def verify(receipt_data, password=None, exclude_old_transactions=True,
         sandbox=False):
 
     payload = {
