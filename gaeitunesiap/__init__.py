@@ -43,5 +43,4 @@ def verify(receipt_data, password=None, exclude_old_transactions=True,
     data = json.loads(res.content)
     if data['status'] in _ERROR_CODES:
         raise Error(_ERROR_CODES[data['status']])
-    return data['receipt']
-
+    return data
